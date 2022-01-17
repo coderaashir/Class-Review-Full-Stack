@@ -1,0 +1,17 @@
+.app {
+  margin-top: 30px;
+  padding: 30px;
+  background-color: rgb(255, 255, 255);
+}
+  
+.review {
+  align-items: center;
+  font-size: 18px;
+  justify-content: space-between;
+  width: 300px;
+  margin: "30px"
+}
+
+.button {
+  margin: 20px;
+}
